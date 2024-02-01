@@ -1,0 +1,11 @@
+name: FireworkTrailColors
+version: '${project.version}'
+main: me.spiral_cat.fireworktrailcolors.FireworkTrailColors
+api-version: 1.20
+
+commands:
+  # creates a new command called FireworkTrailColors.
+  FireworkTrailColors:
+    description: Turns off/on firework trail and changed colors
+    usage: /<command>
+    aliases: [ftc]
